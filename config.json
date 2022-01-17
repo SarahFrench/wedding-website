@@ -1,0 +1,10 @@
+{
+  "baseURL": "http://example.org/",
+  "languageCode": "en-us",
+  "title": "Sarah & Hugos Wedding",
+  "show_comments": false,
+  "disableKinds": [
+    "sitemap",
+    "RSS"
+  ]
+}
