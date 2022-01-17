@@ -1,5 +1,15 @@
+{{ define "dynamic_styles" -}}
+
+{{ partial "dynamic_styles.html" . }}
+
+{{- end }}
+
+
 {{ define "main" -}}
 
-{{ partial "pagecontent.html" . }}
+{{ partial "navigation.html" . }}
+{{ partial "header.html" . }}
+{{ partial "main.html" . }}
+{{ partial "footer.html" . }}
 
 {{- end }}

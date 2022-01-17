@@ -1,0 +1,38 @@
+<main>
+    <div class="parallax parallax-height image1"></div>
+
+    <section class="section">
+        <p>This is the top section</p>
+    </section>
+    <div class="parallax parallax-height image2"></div>
+
+    <section id="timings" class="section light">
+         <h1 class="section__heading">Wedding Day</h1>
+        <p>This is a section about the venue, day and timings of the ceremony</p>
+        <ul>
+            {{ range $event := .Params.daysEvents }}
+            <li>
+                {{ $event.name }} - {{ $event.time }}
+            </li>
+            {{ end }}
+        </ul>
+    </section>
+    <div class="parallax parallax-height image2"></div>
+
+    <section id="travel" class="section dark">
+        <h1 class="section__heading">Getting There</h1>
+        <p>This is a section about the venue and how to get there</p>
+        <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10104.852471257893!2d-3.5429007566095314!3d50.71598525849148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486da43bae3a28e7%3A0x2839f55996b126e3!2sMcDonald&#39;s!5e0!3m2!1sen!2suk!4v1641683158662!5m2!1sen!2suk" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </section>
+    <div class="parallax parallax-height image3"></div>
+
+    <section id="gifts" class="section">
+        <h1 class="section__heading">Gifts</h1>
+        <p>{{ .Params.giftsMessage }}</p>
+        <p>{{ .Params.giftsLink }}</p>
+    </section>
+    
+    <div class="scroll-top">
+        <a class="scroll-top__button" href="#top">Scroll to top</a>
+    </div>
+</main>

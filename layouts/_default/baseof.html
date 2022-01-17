@@ -1,18 +1,22 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-  </head>
-  <body>
-    <nav>
-        <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/about/">About</a></li>
-            <li><a href="/privacy-policy/">Privacy Policy</a></li>
-        </ul>
-    </nav>
-    {{ block "main" . -}}{{- end }}
-  </body>
+    <head>
+        <title> {{ .Site.Title }} </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- <link href="style.css" rel="stylesheet" /> -->
+        <link href="/css/style.css" rel="stylesheet" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,600&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,600&family=Spline+Sans:wght@700&display=swap" rel="stylesheet">
+        {{ block "dynamic_styles" . -}}{{- end }}
+    </head>
+    <body id="top">
+        {{ block "main" . -}}{{- end }}
+        <script src="/js/script.js"></script>
+    </body>
 </html>
