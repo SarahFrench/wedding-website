@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: var(--cream);
+  background-color: var(--dusty-pink);
   font-family: var(--main-font);
 }
 
@@ -102,7 +102,7 @@ html {
 .nav-mobile {
   height: var(--menu-bar-height);
   width: 100%;
-  background-color: #4A503D;
+  background-color: var(--dusty-pink);
   
   display: flex;
   flex-direction: row-reverse;
@@ -122,7 +122,7 @@ html {
 .nav-mobile__burger {
   width: 50px;
   height: 6px;
-  background: var(--light-green);
+  background: var(--cream);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -133,7 +133,7 @@ html {
   position: absolute;
   width: 50px;
   height: 6px;
-  background: var(--light-green);
+  background: var(--cream);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -163,7 +163,7 @@ html {
 
 .nav-mobile__menu {
   display: none;
-  background-color: var(--dark-green);
+  background-color: var(--dusty-pink);
   width: 100vw;
   height: 100vh;
   position: fixed;
@@ -245,28 +245,33 @@ html {
 
 /* TEXT SECTIONS */
 
-.section,
-.section.light {
-  padding: 10px 20px;
+.section {
   width: 100%;
-  min-height: 200px;
+}
+
+.section.light {
   color: var(--dusty-pink);
   background-color: var(--cream);
 }
 
 .section.dark {
-  padding: 10px 20px;
   width: 100%;
   min-height: 200px;
   color: var(--cream);
   background-color: var(--light-green);
 }
 
+@media only screen and (max-width: 800px) {
+    .section {
+        min-height: 200px;
+        padding: 50px 20px;
+    }
+}
+
 @media only screen and (min-width: 800px) {
     .section {
-        padding: 20px 20%;
-        width: 100%;
         min-height: 300px;
+        padding: 5% 20%;
     }
 }
 
