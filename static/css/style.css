@@ -74,17 +74,32 @@ html {
 /* HEADING SECTION */
 .header {
     min-height: 200px;
+    margin-top: -1px;
+    padding-bottom: 5vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     background-color: var(--dusty-pink);
     color: var(--cream);
     text-shadow: var(--dark-green) 2px 2px 0px;
   }
-  
+
+.header-svg {
+    width: 100vw;
+    height: 100vw;
+}
+
 @media only screen and (min-width: 800px) {
     .header {
         margin-top: var(--menu-bar-height);
+        padding-bottom: 5vh;
+        min-height: fit-content;
+    }
+
+    .header-svg {
+        width: 50vw;
+        height: 50vw;
     }
 }
 
