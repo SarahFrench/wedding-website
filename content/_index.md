@@ -1,8 +1,8 @@
 ---
 draft: false
-image1: "/image/image-1.jpg"
-image2: "/image/image-2.jpg"
-image3: "/image/image-3.jpg"
+image1: "image/image-1.jpg"
+image2: "image/image-2.jpg"
+image3: "image/image-3.jpg"
 daysEvents:
     - name: "arrive"
       time: "13:00"
