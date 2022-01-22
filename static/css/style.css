@@ -29,7 +29,9 @@ body {
 :root {
   --menu-bar-height: 80px;
 
-  --main-font: 'Lora', serif;
+  /* --main-font: 'Lora', serif; */
+  --main-font: 'Noto Sans', sans-serif;
+
   --font2: 'Spline Sans', sans-serif;
 
   --cream : #FAF2DA;
@@ -83,11 +85,14 @@ html {
     background-color: var(--dusty-pink);
     color: var(--cream);
     text-shadow: var(--dark-green) 2px 2px 0px;
+    letter-spacing: 2px;
+
+    height: calc(100vh - var(--menu-bar-height))
   }
 
 .header-svg {
-    width: 100vw;
-    height: 100vw;
+    width: 100%;
+    height: 100%;
 }
 
 @media only screen and (min-width: 800px) {
@@ -98,14 +103,35 @@ html {
     }
 
     .header-svg {
-        width: 50vw;
-        height: 50vw;
+        width: 75%;
+        height: 75%;
     }
 }
 
-.header__heading {
-  font-size: 2em;
+.header__text {
   text-align: center;
+}
+
+.header__text--light {
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.header__text--heavy {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+@media only screen and (min-width: 800px) {
+  .header__text--light {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .header__text--heavy {
+    font-size: 2.5rem;
+  }
 }
 
 /* NAVIGATION - TOP MENU */
@@ -252,10 +278,21 @@ html {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  padding-top: 5vh;
 }
 
 .scroll-top__button {
   display: inline-block;
+  width: 25%;
+  height: 25%;;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 800px) {
+    .scroll-top__button {
+        width: 10%;
+        height: 10%;;
+      }
 }
 
 /* TEXT SECTIONS */
@@ -304,5 +341,5 @@ html {
 .footer {
   padding: 20px;
   text-align: right;
-  color: var(--light-green);
+  color: var(--cream);
 }
