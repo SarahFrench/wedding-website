@@ -396,4 +396,16 @@ html {
     color: var(--cream);
     font-size: inherit;
   }
+
+/* SUNDAY PAGE SPECIFIC */
+
+.sunday h1,
+.sunday h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.sunday ul,
+.sunday ol {
+  margin-left: 1rem;
 }

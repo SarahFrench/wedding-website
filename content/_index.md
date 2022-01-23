@@ -26,5 +26,3 @@ giftsMessage: "Please go here to buy us lots and lots of things"
 giftsLink: "https://www.example.com"
 
 ---
-
-Home page content goes here (your 2000 words of content, and images). 
