@@ -276,7 +276,6 @@ html {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  padding-top: 5vh;
 }
 
 .scroll-top__button {
@@ -385,9 +384,21 @@ html {
 
 .footer {
   padding: 20px;
+  display: flex;
+  flex-direction: column;
   text-align: center;
   color: var(--cream);
   font-size: 75%;
+}
+
+.footer svg {
+  width: 25%;
+  height: 25%;
+  align-self: center;
+}
+
+.footer p {
+  align-self: right;
 }
 
 @media only screen and (min-width: 800px) {
@@ -396,4 +407,26 @@ html {
     color: var(--cream);
     font-size: inherit;
   }
+  
+  .footer svg {
+    width: 15%;
+    height: 15%;
+  }
+
+  .footer p {
+    align-self: center;
+  }
+}
+
+/* SUNDAY PAGE SPECIFIC */
+
+.sunday h1,
+.sunday h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.sunday ul,
+.sunday ol {
+  margin-left: 1rem;
 }
