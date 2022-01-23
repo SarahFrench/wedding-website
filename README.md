@@ -1,4 +1,8 @@
-# Wedding Website
+# Wedding Website - Status = W.I.P
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/15078782/150659777-bf20ca44-136e-4122-82ba-bbccc8a7e034.gif">
+</p>
 
 If you're reading this- hello! I didn't want to spend money on Squarespace/Wix/etc to make a website for my wedding guests, so here it is deployed on GitHub Pages.
 
@@ -6,7 +10,7 @@ The man I'm marrying is called Hugo, and the framework used to make the site is 
 
 ## Inspiration
 
-I took heavy inspiration from [this Wix template](https://www.wix.com/website-template/view/html/1883). I copied the UX (parallax, nav positioning) and made my own version of the round header image using [Affinity Designer](https://affinity.serif.com/en-gb/designer/) using a [colour palette I found](https://colorhunt.co/palette/faf2da8e97754a503de28f83).
+I took heavy inspiration from [this Wix template](https://www.wix.com/website-template/view/html/1883). I copied the UI (parallax, nav positioning) and made my own version of the round header image using [Affinity Designer](https://affinity.serif.com/en-gb/designer/) using a [colour palette I found](https://colorhunt.co/palette/faf2da8e97754a503de28f83).
 
  No HTML/CSS code was copied from that template- I wrote everything here (that'll be apparent when you see the mess that is my CSS).
 
