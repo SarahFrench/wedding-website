@@ -8,6 +8,8 @@ If you're reading this- hello! I didn't want to spend money on Squarespace/Wix/e
 
 The man I'm marrying is called Hugo, and the framework used to make the site is also called [Hugo](https://gohugo.io/), ain't that fun.
 
+⚠️ [Hugo if you're looking for info about how to edit the website, see this doc here](./docs/instructions-for-hugo.md)
+
 ## Inspiration
 
 I took heavy inspiration from [this Wix template](https://www.wix.com/website-template/view/html/1883). I copied the UI (parallax, nav positioning) and made my own version of the round header image using [Affinity Designer](https://affinity.serif.com/en-gb/designer/) using a [colour palette I found](https://colorhunt.co/palette/faf2da8e97754a503de28f83).
