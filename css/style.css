@@ -82,13 +82,12 @@ html {
   }
 
 .header-svg {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
 }
 
 @media only screen and (min-width: 800px) {
     .header {
-        padding-bottom: 5vh;
         min-height: fit-content;
     }
 
@@ -265,10 +264,10 @@ html {
   text-decoration: none;
 }
 
-/* .nav-desktop__link:hover {
-    color: var(--cream);
-    transition: all 0.5s ease-in-out;
-} */
+.nav-desktop__link:hover {
+    transform: scale(1.1);
+    transition: all 0.25s ease-in-out;
+}
 
 /* NAVIGATION - SCROLL TO TOP */
 
@@ -312,7 +311,7 @@ html {
 
 .section__split div {
   width: 100%;
-  padding: 20px 10px;
+  padding: 50px 10px;
   text-align: center;
 }
 
@@ -326,14 +325,8 @@ html {
     flex-direction: row;
   }
 
-  .section__split div {
-    border-style: solid;
-    border-width: 0px 2px;
-    border-color: var(--dusty-pink);
-  }
-
   .section__split div:nth-child(1) {
-    border-right: none;
+    border-right: solid 2px var(--dusty-pink);
     border-bottom: none;
   }
 }
@@ -371,8 +364,8 @@ html {
 }
 
 .section__heading {
-  font-size: 1.5em;
-  margin-bottom: 1.5em;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
   color: inherit;
   font-style: italic;
   text-align: center;
@@ -380,10 +373,21 @@ html {
   letter-spacing: 5px;
 }
 
+.section__subheading {
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.section__text--bold {
+  font-weight: 700;
+  font-size: 125%;
+}
+
 /* FOOTER */
 
 .footer {
-  padding: 20px;
+  padding: 0px 20px 20px 20px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -392,13 +396,20 @@ html {
 }
 
 .footer svg {
-  width: 25%;
-  height: 25%;
+  width: 30%;
+  height: 30%;
   align-self: center;
 }
 
 .footer p {
   align-self: right;
+}
+
+.footer a:link,
+.footer a:visited,
+.footer a:hover,
+.footer a:active {
+  color: var(--cream);
 }
 
 @media only screen and (min-width: 800px) {
@@ -409,8 +420,8 @@ html {
   }
   
   .footer svg {
-    width: 15%;
-    height: 15%;
+    width: 20%;
+    height: 20%;
   }
 
   .footer p {
