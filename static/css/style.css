@@ -387,7 +387,7 @@ html {
 /* FOOTER */
 
 .footer {
-  padding: 20px;
+  padding: 0px 20px 20px 20px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -396,13 +396,20 @@ html {
 }
 
 .footer svg {
-  width: 25%;
-  height: 25%;
+  width: 30%;
+  height: 30%;
   align-self: center;
 }
 
 .footer p {
   align-self: right;
+}
+
+.footer a:link,
+.footer a:visited,
+.footer a:hover,
+.footer a:active {
+  color: var(--cream);
 }
 
 @media only screen and (min-width: 800px) {
@@ -413,8 +420,8 @@ html {
   }
   
   .footer svg {
-    width: 15%;
-    height: 15%;
+    width: 20%;
+    height: 20%;
   }
 
   .footer p {
