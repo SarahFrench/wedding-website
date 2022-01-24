@@ -4,7 +4,9 @@ image1: "https://res.cloudinary.com/dl1rwtqzi/image/upload/c_scale,w_1000/v16429
 image2: "https://res.cloudinary.com/dl1rwtqzi/image/upload/v1642951897/9eb8ed9f-fffd-4098-b2e2-11bf5dc4dda6_mlelgw.png"
 image3: "https://res.cloudinary.com/dl1rwtqzi/image/upload/c_scale,w_1000/v1642952534/heyaeyae-screenshot_oacy4d.png"
 when: "Sat 11th Feb 2023, 2:00 PM"
-where: "Higher Eggbeer Farm, Cheriton Bishop, Nr Exeter, Devon, EX6 6JQ"
+where:
+  first: "Higher Eggbeer Farm"
+  second: "Cheriton Bishop, Nr Exeter, Devon, EX6 6JQ"
 daysEvents:
     - name: "arrive"
       time: "13:00"

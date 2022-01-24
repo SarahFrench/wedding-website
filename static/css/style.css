@@ -312,7 +312,7 @@ html {
 
 .section__split div {
   width: 100%;
-  padding: 20px 10px;
+  padding: 50px 10px;
   text-align: center;
 }
 
@@ -326,14 +326,8 @@ html {
     flex-direction: row;
   }
 
-  .section__split div {
-    border-style: solid;
-    border-width: 0px 2px;
-    border-color: var(--dusty-pink);
-  }
-
   .section__split div:nth-child(1) {
-    border-right: none;
+    border-right: solid 2px var(--dusty-pink);
     border-bottom: none;
   }
 }
@@ -371,13 +365,24 @@ html {
 }
 
 .section__heading {
-  font-size: 1.5em;
-  margin-bottom: 1.5em;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
   color: inherit;
   font-style: italic;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 5px;
+}
+
+.section__subheading {
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.section__text--bold {
+  font-weight: 700;
+  font-size: 125%;
 }
 
 /* FOOTER */
