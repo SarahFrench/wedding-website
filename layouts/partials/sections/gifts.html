@@ -1,5 +1,9 @@
 <section id="gifts" class="section light">
     <h1 class="section__heading">Gifts</h1>
-    <p>{{ .Params.giftsMessage }}</p>
-    <p>{{ .Params.giftsLink }}</p>
+    <p>{{ .Params.gifts.message }}</p>
+    <p>
+        <a href="{{ .Params.gifts.url}}">
+            {{ .Params.gifts.linkText}}
+        </a>
+    </p>
 </section>

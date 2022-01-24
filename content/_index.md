@@ -24,7 +24,9 @@ daysEvents:
       time: "19:00"
     - name: "coaches"
       time: "20:00"
-giftsMessage: "Please go here to buy us lots and lots of things"
-giftsLink: "https://www.example.com"
+gifts:
+  message: "Please go here to buy us lots and lots of things"
+  linkText: "Click here to see the humongous list"
+  url: "https://www.example.com"
 
 ---
