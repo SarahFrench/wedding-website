@@ -82,13 +82,12 @@ html {
   }
 
 .header-svg {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
 }
 
 @media only screen and (min-width: 800px) {
     .header {
-        padding-bottom: 5vh;
         min-height: fit-content;
     }
 
@@ -265,10 +264,10 @@ html {
   text-decoration: none;
 }
 
-/* .nav-desktop__link:hover {
-    color: var(--cream);
-    transition: all 0.5s ease-in-out;
-} */
+.nav-desktop__link:hover {
+    transform: scale(1.1);
+    transition: all 0.25s ease-in-out;
+}
 
 /* NAVIGATION - SCROLL TO TOP */
 
