@@ -67,7 +67,7 @@ html {
 /* HEADING SECTION */
 .header {
     min-height: 200px;
-    margin-top: -1px;
+    margin-top: 20px;
     padding-bottom: 5vh;
     display: flex;
     flex-direction: column;
