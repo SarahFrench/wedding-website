@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Order of events"
+title: "Order of Events"
 ---
 
 ## 13:30 - Arrivals
