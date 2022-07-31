@@ -11,6 +11,9 @@
 body {
   background-color: var(--dusty-pink);
   font-family: var(--main-font);
+
+  position: absolute;
+  min-width: 100vw;
 }
 
 /* Needed for scrolling to sections from nav links */
@@ -235,24 +238,27 @@ html {
 }
 
 .nav-mobile__link {
-    display: inline-block;
-    text-align: center;
-    width: 100%;
-    color: var(--cream);
-    text-shadow: var(--dark-green) 2px 2px 0px;
-    text-decoration: none;
-    font-size: 5vw;
-    margin-bottom: 10vh;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  margin-bottom: 1.5rem;
+  color: var(--cream);
+  font-style: italic;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  text-decoration: none;
 }
 
 .nav-mobile__link:after {
+  content: "*";
+  display: block;
+  margin-top: 1.5rem;
+}
+
+/* No divider after last link in the menu */
+.nav-mobile__link:last-of-type:after {
   content: "";
-  transform: translateY(50px);
-  left: calc(50% - 12.5%);
-  width: 25%;
-  background: var(--cream);
-  height: 2px;
-  position: absolute;
+  display: none;
 }
 
 
