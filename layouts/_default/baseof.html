@@ -10,7 +10,8 @@
         <link href="{{ .Site.BaseURL }}/css/style.css" rel="stylesheet" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Serif&display=swap" rel="stylesheet">        {{ block "dynamic_styles" . -}}{{- end }}
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Serif&display=swap" rel="stylesheet">
+        {{ block "dynamic_styles" . -}}{{- end }}
     </head>
     <body id="top">
         {{ block "main" . -}}{{- end }}
