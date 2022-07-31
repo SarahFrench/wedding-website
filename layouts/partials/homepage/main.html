@@ -31,11 +31,24 @@
 
     <section id="order-of-events" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/leaf.svg" . }}
+            {{ partial "svgs/leaves.svg" . }}
         </div>
 
         {{ $t := .Site.GetPage "/section/order-of-events" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
 
+    <div class="image image3"></div>
+
+    <section id="travel-accommodation" class="section light">
+        <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div>
+
+        {{ $t := .Site.GetPage "/section/travel-accommodation" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
         <section class="section__md-content">
             {{ $t.Content }}
