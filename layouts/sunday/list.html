@@ -1,6 +1,6 @@
 {{ define "main" -}}
 {{ partial "sunday/navigation.html" . }}
-{{ partial "header.html" . }}
+{{ partial "shared/header.html" . }}
 
 <section class="section light sunday">
     <div class="section__svg">
@@ -10,5 +10,5 @@
     <p>{{ .Page.Content }}</p>
 </section>
 
-{{ partial "footer.html" . }}
+{{ partial "shared/footer.html" . }}
 {{- end }}
