@@ -1,5 +1,6 @@
-<div>
-</div>
+{{ define "main" -}}
+{{ partial "sunday/navigation.html" . }}
+{{ partial "header.html" . }}
 
 <section class="section light sunday">
     <div class="section__svg">
@@ -8,3 +9,6 @@
     <h1 class="section__heading">Sunday Plans</h1>
     <p>{{ .Page.Content }}</p>
 </section>
+
+{{ partial "footer.html" . }}
+{{- end }}
