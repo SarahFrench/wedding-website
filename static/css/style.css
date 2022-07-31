@@ -429,6 +429,24 @@ html {
   }
 }
 
+.section__md-content {
+  text-align: left;
+}
+
+@media only screen and (min-width: 800px) {
+  .section__md-content p {
+    padding-left: 4rem;
+  }
+}
+
+.section__md-content h2 {
+  margin-top: 1rem;
+
+  font-size: 1.25rem;
+  color: inherit;
+  font-style: italic;
+}
+
 /* SUNDAY PAGE SPECIFIC */
 
 .sunday h1,
