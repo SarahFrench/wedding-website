@@ -249,12 +249,6 @@ html {
   text-decoration: none;
 }
 
-.nav-mobile__link:after {
-  content: "*";
-  display: block;
-  margin-top: 1.5rem;
-}
-
 /* No divider after last link in the menu */
 .nav-mobile__link:last-of-type:after {
   content: "";
