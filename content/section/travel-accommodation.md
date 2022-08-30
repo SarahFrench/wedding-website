@@ -15,12 +15,12 @@ Please pre-book a taxi for the evening if you are not travelling by car
 
 <br>
 
-There is a lot of parking space available at Eggbeer Farm and cars can be left here overnight if you need to
+There is a lot of parking space available at Eggbeer Farm and cars can be left here overnight.
 
 <br>
 
-Accommodation at Higher Eggbeer is available but for an extra fee (contact Hugo and Sarah about arranging this)
+Accommodation at Higher Eggbeer is available for hire, please contact Hugo and Sarah for more details
 
 <br>
 
-You could take a train down from London to Exeter on the morning of the wedding, and back home after, if you wanted!
+You could take a train down from London to Exeter on the morning of the wedding, and back home afterwards, if you wanted!
