@@ -3,46 +3,43 @@ draft: false
 title: "Order of Events"
 ---
 
-## 13:30 - Arrivals
+## 1:30pm - Arrivals
 
 Everyone arrives at Higher Eggbeer
 
 Warm drink on arrival before the ceremony
 
-## 14:00 - Ceremony
+## 2pm - Ceremony
 
-Inside the Chapel Barn at Higher Eggbeer
+Inside the **Chapel Barn** at Higher Eggbeer
 
-## 15:00 - Reception
+## 3pm - Reception
 
-Sparkling, canapes & photographs on the lawn after the ceremony
+Sparkling, canapes and photographs on the lawn after the ceremony- weather permitting!
+Please do wrap up warm, but we have contingencies for rain
 
-Weather permitting - wrap up warm, but we do have contingencies for rain!
+## 4pm - Wedding Breakfast
 
-## 16:00 - Wedding Breakfast
-
-A dinner with wine will follow in Higher Eggbeer's Banquet Barn
+A dinner with wine will follow in Higher Eggbeer's **Banquet Barn**
 Speeches after dinner
 
-_Venue Bar opens during wedding breakfast -  cash & card accepted_
+_Venue Bar opens during the wedding breakfast -  cash & card accepted_
 
-## 18:00 - The Party
+## 6pm - The Party
 
-After a quick reshuffle of the Banquet Barn, the party will begin!
+After a quick reshuffle of the **Banquet Barn**, the party will begin!
 
-The Small Things playing live music until 11pm
-Late night food for those still peckish!
-
-_Venue Bar open_
+_The Small Things_ playing live music until 11pm
+Late night food served for those still peckish!
 
 ## Carriages at midnight
 
-Wrap up warm for sparklers, fire pits, toasted marshmallows, drunken warbling outside as we begin to say our farewells!
+Wrap up warm for sparklers, toasted marshmallows, drunken warbling around the fire pit as we begin to say our farewells!
 
 _Venue Bar closes shortly after midnight_
 
 ## Wheelbarrows at 2am
 
-The Banquet barn will shut around midnight… but the party doesn’t need to end!
+The **Banquet Barn** will shut at around midnight… but the party doesn’t need to end there!
 
-The smaller ‘Pub’ Barn will be opened with a few bottles and maybe some kegs, for those hard-core enough to stay up chatting
+The smaller **‘Pub’ Barn** will be opened with a few bottles and maybe some kegs, for those hard-core enough to stay up!
