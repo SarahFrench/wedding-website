@@ -30,6 +30,7 @@ _Venue Bar opens during the wedding breakfast -  cash & card accepted_
 After a quick reshuffle of the **Banquet Barn**, the party will begin!
 
 _The Small Things_ playing live music until 11pm
+
 Late night food served for those still peckish!
 
 ## Carriages at midnight
