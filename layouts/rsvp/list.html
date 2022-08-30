@@ -1,0 +1,13 @@
+{{ define "main" -}}
+{{ partial "shared/navigation.html" . }}
+
+<section class="section light standalone">
+    <div class="section__svg">
+        {{ partial "svgs/leaf.svg" . }}
+    </div>
+    <h1 class="section__heading">{{.Page.Title}}</h1>
+    {{ .Page.Content }}
+</section>
+
+{{ partial "shared/footer.html" . }}
+{{- end }}
