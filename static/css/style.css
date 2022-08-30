@@ -259,7 +259,9 @@ html {
 .nav-desktop__link {
   display: inline-block;
   text-align: center;
-  width: 200px;
+  padding: 0 0.5rem;
+  width: -webkit-fill-available;
+
   color: var(--cream);
   text-decoration: none;
 }
