@@ -35,7 +35,7 @@ Late night food served for those still peckish!
 
 ## Carriages at midnight
 
-Wrap up warm for sparklers, toasted marshmallows, drunken warbling around the fire pit as we begin to say our farewells!
+Wrap up warm for sparklers, toasted marshmallows, and drunken warbling around the fire pit as we begin to say our farewells!
 
 _Venue Bar closes shortly after midnight_
 
