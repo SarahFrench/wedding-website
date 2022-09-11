@@ -13,19 +13,21 @@ Warm drink on arrival before the ceremony
 
 Inside the **Chapel Barn** at Higher Eggbeer
 
-## 3pm - Reception
+## 2:30pm - Reception
 
 Sparkling, canapes and photographs on the lawn after the ceremony- weather permitting!
+
 Please do wrap up warm, but we have contingencies for rain
 
 ## 4pm - Wedding Breakfast
 
 A dinner with wine will follow in Higher Eggbeer's **Banquet Barn**
+
 Speeches after dinner
 
 _Venue Bar opens during the wedding breakfast -  cash & card accepted_
 
-## 6pm - The Party
+## Later... The Party
 
 After a quick reshuffle of the **Banquet Barn**, the party will begin!
 
@@ -43,4 +45,4 @@ _Venue Bar closes shortly after midnight_
 
 The **Banquet Barn** will shut at around midnight… but the party doesn’t need to end there!
 
-The smaller **‘Pub’ Barn** will be opened with a few bottles and maybe some kegs, for those hard-core enough to stay up!
+The smaller **‘Pub’ Barn** will be opened with a few bottles and maybe some kegs, for those hardcore enough to stay up!
