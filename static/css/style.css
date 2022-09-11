@@ -266,15 +266,17 @@ html {
   text-decoration: none;
 }
 
-.nav-rsvp {
+.rsvp-button {
   color: var(--cream);
   background: var(--dark-green);
   padding: 0.5rem;
   border-radius: 10px;
+  width: fit-content
 }
 
 @media only screen and (min-width: 800px) {
-  .nav-rsvp {
+  /* Alterations specific to desktop nav */
+  .rsvp-nav {
     margin-left: 4rem;
   }
 }
