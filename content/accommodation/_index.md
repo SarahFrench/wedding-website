@@ -5,11 +5,11 @@ title: "Accommodation"
 
 ## Camping and Caravans at Higher Eggbeer
 
-Higher Eggbeer also offers additional accommodation on site via shepards huts and caravans, which **need to be booked and paid in advance via Hugo and Sarah**.You would be able to stay there until midday Monday.
+Higher Eggbeer also offers additional accommodation on site via shepards huts and caravans, which **need to be booked and paid in advance via Hugo and Sarah**. You would be able to stay there until midday Monday.
 
 <br>
 
-Quoted from - [Higher Eggbeers website](http://www.higher-eggbeer.co.uk/accommodation/#:~:text=You%20can%20bring,Friday%20to%20Monday.%C2%A0):
+Quoted from - [Higher Eggbeer's website](http://www.higher-eggbeer.co.uk/accommodation/#:~:text=You%20can%20bring,Friday%20to%20Monday.%C2%A0):
 
 <br>
 
@@ -21,7 +21,7 @@ _There is also a **bridal shepherds hut** with a double bed, linen and heating p
 
 <br>
 
-_Also **we can provide up to 7 caravans (depending on avaliablility)** on site for the weekend. Last two weeks of july and August not included. The caravans have gas shower, cooking, fridge and heating, we have 6 hook ups which cost £15 each. Please bring your own bedding. Please call Sarah (editors note: not the bride!) on 07933028347 for prices and avaliability._
+_Also **we can provide up to 7 caravans (depending on avaliablility)** on site for the weekend. Last two weeks of july and August not included. The caravans have gas shower, cooking, fridge and heating, we have 6 hook ups which cost £15 each. Please bring your own bedding. Please call Sarah (editor's note: not the bride!) on 07933028347 for prices and avaliability._
 
 <br>
 
