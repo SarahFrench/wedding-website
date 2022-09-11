@@ -488,4 +488,29 @@ html {
   width: 100%;
   min-height: 600px;
   height: 100vh;
+  margin-top: 2rem;
+}
+
+/*Gift section*/
+
+blockquote {
+  width: 100%;
+  font-style: italic;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-bottom: 1rem;
+
+  color: var(--light-green)
+}
+
+@media only screen and (min-width: 800px) {
+  blockquote {
+    width: 75%;
+  }
+}
+
+figcaption {
+  text-align: right;
+  color: var(--light-green)
 }
