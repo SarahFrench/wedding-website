@@ -28,7 +28,7 @@ Please arrange cabs home for your group on Saturday night after the wedding.
 
 **Taxi Companies:**
 
-Execter Cars - 01392 555555 ([website](https://www.exetercars.com/))
+Exeter Cars - 01392 555555 ([website](https://www.exetercars.com/))
 
 Apple Taxis Exeter - 01392 666 666 ([website](https://www.appletaxisexeter.co.uk/))
 
