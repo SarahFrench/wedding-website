@@ -1,48 +1,23 @@
 ---
 draft: false
-title: "Travel Advice"
+title: "Travel"
 ---
 
-<iframe class="google-map" style="border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5988.827892632287!2d-3.7497530637098593!3d50.72189916227002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486dac616bc30dc7%3A0x95241c452f2c9cec!2sEggbeer%20Farm!5e0!3m2!1sen!2suk!4v1659273800010!5m2!1sen!2suk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13001.228251076125!2d-120.9017861!3d35.4471918!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ed2070b3383cab%3A0xd46e6c4b631783bb!2sSeaside%20Motel!5e0!3m2!1sen!2sus!4v1682957707365!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Address
 
-Higher Eggbeer Farm, 
-Cheriton Bishop, 
-Exeter, 
-EX6 6JQ
+The Seaside Motel <br>
+42 S Ocean Ave <br>
+Cayucos, CA 93430
 
-## By train
+## Closest Airport
 
-Trains from London Paddington to Exeter St David’s are approx ~2hrs 15mins.
+San Luis Obispo County Regional Airport <br> Approximately 30 minute drive from Cayucos
 
-You would then need to travel by taxi.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3258.751030477842!2d-120.64460628922532!3d35.23756725410542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf6bf3876b9f1%3A0xf486acd07a0f3bd2!2sSan%20Luis%20Obispo%20County%20Regional%20Airport!5e0!3m2!1sen!2sus!4v1682958017049!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## By taxi
-
-Taxi from Exeter Station to Higher Eggbeer is approx. a 15-20min cab ride.
-
-Please arrange cabs home for your group on Saturday night after the wedding.
-
-<br>
-
-**Taxi Companies:**
-
-Exeter Cars - 01392 555555 ([website](https://www.exetercars.com/))
-
-Apple Taxis Exeter - 01392 666 666 ([website](https://www.appletaxisexeter.co.uk/))
-
-Andrew Mills Taxi - 01392 253588
-
-## By car
-
-**Note: Parking is available on site and cars can be left on site overnight**
-
-Higher Eggbeer is a short drive from Exeter City Centre - approx. 15-20min drive.
-
-From Exeter, take the A30 & exit towards Cheriton Bishop / Crockernwell / Drewsteignton / Tedburn / St Mary.
-
-When you arrive in the village of Cheriton Bishop at the ‘The Old Thatch Inn’ pub on the left, take the next left turn (at the yellow house). This will lead you down a short country lane directly to Higher Eggbeer. There are signs pointing to the entrance.
 
  
 

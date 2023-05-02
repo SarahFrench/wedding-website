@@ -4,14 +4,30 @@
 
     <section id="when" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/leaf.svg" . }}
+            {{ partial "svgs/catWeddingGreen.svg" . }}
         </div>
         <h1 class="section__heading">The Wedding</h1>
         <section class="section__split">
             <div>
-                <p class="section__subheading">When</p>
+               <p class="section__subheading">When</p>
+                <br>
+                
+            
                 <p class="section__text--bold">
-                    {{ .Params.when }}
+                    {{ .Params.when.first }}
+                    
+                </p> 
+               
+            
+           
+
+                <br>
+                <p class="section__text--bold">
+                    {{ .Params.when.second }}
+                </p>
+                <br>
+                <p class="section__subheading">
+                    {{ .Params.when.post }}
                 </p>
             </div>
             <div>
@@ -19,34 +35,13 @@
                 <p class="section__text--bold">
                     {{ .Params.where.first }}
                 </p>
-                <p>
+                <p class="section__subheading">
                     {{ .Params.where.second }}
                 </p>
             </div>
         </section>
         <!-- My CSS in this project is bad, man -->
-        <section style="display:flex;flex-direction:column;align-items:center;">
-            <h2 style="margin-top:2rem;" class="section__heading">Speeches</h2>
-
-            <h3 style="margin-top:2rem;" class="section__heading">Father of Bride</h3>
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/XfCBomxy7K8"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen></iframe>
-
-            <h3 style="margin-top:2rem;" class="section__heading">Best Man</h3>
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/JzArXpZgaOs"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen></iframe>
-
-            <h3 style="margin-top:2rem;" class="section__heading">Groom</h3>
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/NPhbs9SEmVc"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen></iframe>
-
-        </section>
+        
     </section>
 
     <div class="image image2"></div>
@@ -54,21 +49,43 @@
 
     <section id="order-of-events" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/leaves.svg" . }}
+            {{ partial "svgs/catWeddingGreen.svg" . }}
         </div>
+        
 
         {{ $t := .Site.GetPage "/section/order-of-events" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
-        <section class="section__md-content">
-            {{ $t.Content }}
+        <!-- From here -->
+        <section class="section__split">
+            <div>
+               <p class="section__subheading">Sunday, September 24th</p>
+                <br>
+                
+                <section class="section__md-content">
+                    {{ $t.Content }}
+                </section>
+                
+                
+            </div>
+            <div>
+                <p class="section__subheading">Monday, 25th of September</p>
+                <br>
+                {{ $t := .Site.GetPage "/section/MondayOOE" }}
+                <section class="section__md-content">
+                    {{ $t.Content }}
+                </section>
+               
+            </div>
         </section>
+        <!-- to here -->
+        
     </section>
 
     <div class="image image3"></div>
 
     <section id="travel-accommodation" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/leaf.svg" . }}
+            {{ partial "svgs/catWeddingGreen.svg" . }}
         </div>
 
         {{ $t := .Site.GetPage "/section/travel-accommodation" }}
@@ -82,7 +99,7 @@
 
     <section id="dress" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/leaf.svg" . }}
+            {{ partial "svgs/catWeddingGreen.svg" . }}
         </div>
 
         {{ $t := .Site.GetPage "/section/dress" }}
@@ -91,13 +108,13 @@
             {{ $t.Content }}
         </section>
     </section>
-    <section id="facilities-accessibility" class="section light">
+    <!-- <section id="facilities-accessibility" class="section light">
         {{ $t := .Site.GetPage "/section/facilities-accessibility" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
         <section class="section__md-content">
             {{ $t.Content }}
         </section>
-    </section>
+    </section> -->
     <section id="gifts" class="section light">
         {{ $t := .Site.GetPage "/section/gifts" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
@@ -108,11 +125,11 @@
 
     <div class="image image2"></div>
 
-    <section id="more" class="section light" style="text-align:center;">
+    <!-- <section id="more" class="section light" style="text-align:center;">
         <div class="section__svg">
-            {{ partial "svgs/leaf.svg" . }}
-        </div>
-        <p style="margin-bottom:1em;">Thank you for visiting our website!</p>
+            {{ partial "svgs/catWeddingWhite.svg" . }}
+        </div> -->
+        <!-- <p style="margin-bottom:1em;">Thank you for visiting our website!</p>
         <p style="margin-bottom:1em;">We cannot wait to share this special day with you, and have all our loved ones
             under one roof for the first time in FOREVER!</p>
         <p style="margin-bottom:1em;">In the meantime, if you have any questions you can contact us both at <a
@@ -123,8 +140,8 @@
             and can be planted?</p>
         <p style="margin-bottom:1em;">To plant your invitation, <a href="/plant">see instructions here</a>
         </p>
-        </p>
-    </section>
+        </p> -->
+    <!-- </section> -->
 
     <div class="scroll-top">
         <a class="scroll-top__button" href="#top">

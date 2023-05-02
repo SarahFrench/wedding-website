@@ -3,46 +3,29 @@ draft: false
 title: "Order of Events"
 ---
 
-## 1:30pm - Arrivals
+## 1:00pm - Arrive and Check Into Rooms
 
-Everyone arrives at Higher Eggbeer
+Get settled for a bit, then meet up in the garden for a welcome mocktail and grab a couple snacks. 
 
-Warm drink on arrival before the ceremony
+## 2pm - Group Hike
 
-## 2pm - Ceremony
+We will be hiking though the beautiful Harmony Headlands.  The trailhead is an 8-10 minute drive from the motel.  The trail is mostly flat and meanders through a lovely nature preserve to some spectacular vistas of the Pacific Ocean.
 
-Inside the **Chapel Barn** at Higher Eggbeer
+## 4:00pm - Return to the Motel
 
-## 2:30pm - Reception
+Chill for a while! Hangout in the garden, walk down to the water, or check out some nearby shops. 
 
-Sparkling, canapes and photographs on the lawn after the ceremony- weather permitting!
 
-Please do wrap up warm, but we have contingencies for rain
+## 5:30 - Dinner at Duckies
 
-## 4pm - Wedding Breakfast
+Duckies is known for their Fish & Chips and Clam Chowder.  They also have chicken dishes, burgers, salads and veggie buritos.
 
-A dinner with wine will follow in Higher Eggbeer's **Banquet Barn**
+[http://www.duckieschowder.com/](http://www.duckieschowder.com/)
 
-Speeches after dinner
+This will be a dinner where everyone pays for themselves.
 
-_Venue Bar opens during the wedding breakfast -  cash & card accepted_
+## Post-dinner
 
-## Later... The Party
+Enjoy your evening in any way you'd like.  We will have hot chocolate, herbal tea and snacks to enjoy.
 
-After a quick reshuffle of the **Banquet Barn**, the party will begin!
 
-_The Small Things_ playing live music until 11pm
-
-Late night food served for those still peckish!
-
-## Carriages at midnight
-
-Wrap up warm for sparklers, toasted marshmallows, and drunken warbling around the fire pit as we begin to say our farewells!
-
-_Venue Bar closes shortly after midnight_
-
-## Wheelbarrows at 2am
-
-The **Banquet Barn** will shut at around midnight… but the party doesn’t need to end there!
-
-The smaller **‘Pub’ Barn** will be opened with a few bottles and maybe some kegs, for those hardcore enough to stay up!

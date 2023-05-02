@@ -40,7 +40,7 @@ html {
   --cream: #FAF2DA;
   --light-green: #8E9775;
   --dark-green: #4A503D;
-  --dusty-pink: #E28F83;
+  --dusty-pink: #2A924F;
 }
 
 /* IMAGES - DESKTOP PARALLAX SCROLLING */
@@ -50,6 +50,10 @@ html {
   background-size: cover;
   background-position: bottom;
   filter: saturate(0);
+}
+
+.gif{
+  border: #FAF2DA solid 20px;
 }
 
 @media only screen and (min-width: 800px) {
@@ -70,7 +74,7 @@ html {
 /* HEADING SECTION */
 .header {
   min-height: 200px;
-  margin-top: 20px;
+  margin-top: 100px;
   padding-bottom: 5vh;
   display: flex;
   flex-direction: column;

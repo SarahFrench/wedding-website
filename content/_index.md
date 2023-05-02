@@ -1,7 +1,11 @@
 ---
 draft: false
-when: "Sat 11th Feb 2023, 2:00 PM"
+when: 
+  pre: "The fun begins on Sunday 24th September 1:00 pm"
+  first: "Monday, September 25th, 2023"
+  second: "There will be pleanty of fun before and after the ceremony"
+  post: "keep scrolling for the order of events..."
 where:
-  first: "Higher Eggbeer Farm"
-  second: "Cheriton Bishop, Nr Exeter, Devon, EX6 6JQ"
+  first: "The Seaside Motel"
+  second: "42 S Ocean Ave, Cayucos, CA 93430"
 ---

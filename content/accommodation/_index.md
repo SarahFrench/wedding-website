@@ -5,7 +5,7 @@ title: "Accommodation"
 
 ## Camping and Caravans at Higher Eggbeer
 
-Higher Eggbeer also offers additional accommodation on site via shepards huts and caravans, which **need to be booked and paid in advance via Hugo and Sarah**. You would be able to stay there until midday Monday.
+Higher Eggbeerbeer also offers additional accommodation on site via shepards huts and caravans, which **need to be booked and paid in advance via Hugo and Sarah**. You would be able to stay there until midday Monday.
 
 <br>
 
