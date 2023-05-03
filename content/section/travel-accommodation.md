@@ -18,24 +18,3 @@ San Luis Obispo County Regional Airport <br> Approximately 30 minute drive from 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3258.751030477842!2d-120.64460628922532!3d35.23756725410542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf6bf3876b9f1%3A0xf486acd07a0f3bd2!2sSan%20Luis%20Obispo%20County%20Regional%20Airport!5e0!3m2!1sen!2sus!4v1682958017049!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<!-- **Please take a look at our separate pages on <a href="/travel">travel</a> and <a href="/accommodation">accommodation</a> for advice.**
-
-<br>
-
-The take-home messages are:
-
-<br>
-
-Please pre-book a taxi for the evening if you are not travelling by car
-
-<br>
-
-There is a lot of parking space available at Eggbeer Farm and cars can be left here overnight.
-
-<br>
-
-Accommodation at Higher Eggbeer is available for hire, please contact Hugo and Sarah for more details
-
-<br>
-
-You could take a train down from London to Exeter on the morning of the wedding, and back home afterwards, if you wanted! -->

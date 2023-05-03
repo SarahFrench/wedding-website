@@ -80,9 +80,9 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: var(--dusty-pink);
+  background-color: white;
   color: var(--cream);
-  text-shadow: var(--dark-green) 2px 2px 0px;
+  text-shadow: #2A924F 2px 2px 2px;
   letter-spacing: 2px;
 
   height: 100vh;
